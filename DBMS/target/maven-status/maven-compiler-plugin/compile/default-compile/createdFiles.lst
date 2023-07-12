@@ -1,0 +1,13 @@
+com\csci5408\dwma\DBMS\Interface\IAuthentication.class
+com\csci5408\dwma\DBMS\Services\HashPassword.class
+com\csci5408\dwma\DBMS\Main.class
+com\csci5408\dwma\DBMS\Controllers\LoginController.class
+com\csci5408\dwma\DBMS\Controllers\RegistrationController.class
+com\csci5408\dwma\DBMS\Services\Authentication.class
+com\csci5408\dwma\DBMS\Services\UserOptions.class
+com\csci5408\dwma\DBMS\Services\UserInformation.class
+com\csci5408\dwma\DBMS\Controllers\QueryController.class
+com\csci5408\dwma\DBMS\Services\Printer.class
+com\csci5408\dwma\DBMS\Models\Registration.class
+com\csci5408\dwma\DBMS\Models\Query.class
+com\csci5408\dwma\DBMS\Services\FileManager.class
